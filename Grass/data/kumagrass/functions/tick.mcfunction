@@ -1,0 +1,4 @@
+#> kumagrass:tick
+#
+# @within minecraft:*
+
