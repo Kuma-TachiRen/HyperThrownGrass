@@ -1,0 +1,27 @@
+{
+    "condition": "alternative",
+    "terms": [
+        {
+            "condition": "location_check",
+            "predicate": {
+                "block": {
+                    "blocks": ["minecraft:generic_item_block"],
+                    "state": {
+                        "item": "151"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "block": {
+                    "blocks": ["minecraft:generic_item_block"],
+                    "state": {
+                        "item": "402"
+                    }
+                }
+            }
+        }
+    ]
+}

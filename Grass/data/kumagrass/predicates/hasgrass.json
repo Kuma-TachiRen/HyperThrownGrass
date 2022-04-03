@@ -1,0 +1,19 @@
+{
+    "condition": "alternative",
+    "terms": [
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "nbt": "{carriedBlockState:{Name:\"minecraft:grass\"}}"
+            }
+        },
+        {
+            "condition": "entity_properties",
+            "entity": "this",
+            "predicate": {
+                "nbt": "{carriedBlockState:{Name:\"minecraft:tall_grass\"}}"
+            }
+        }
+    ]
+}
