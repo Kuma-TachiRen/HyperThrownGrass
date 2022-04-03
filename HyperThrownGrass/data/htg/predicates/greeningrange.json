@@ -1,0 +1,11 @@
+{
+    "condition": "entity_properties",
+    "entity": "this",
+    "predicate": {
+        "distance": {
+            "absolute": {
+                "max": 5
+            }
+        }
+    }
+}

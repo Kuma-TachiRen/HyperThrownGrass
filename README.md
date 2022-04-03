@@ -1,4 +1,4 @@
-# GrassThrow
+# HyperThrownGrass
 ## 対応バージョン
 Minecraft:JavaEdition Snapshot 22w13oneblockatatime
 ## 概要
